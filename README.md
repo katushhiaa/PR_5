@@ -179,6 +179,7 @@ https://github.com/katushhiaa/PR_5/assets/113555695/f2ed3faf-eb72-47d7-a81e-f29f
 ```
 
 Результат виконання програми:
+
 ![image](https://github.com/katushhiaa/PR_5/assets/113555695/2c4e39a1-6d79-4db9-bc31-1ef5e585e08b)
 
 **Завдання 3 «Використання RelativeLayout»**
@@ -265,4 +266,5 @@ https://github.com/katushhiaa/PR_5/assets/113555695/f2ed3faf-eb72-47d7-a81e-f29f
 ```
 
 Запустити додаток з новою темою
+
 ![image](https://github.com/katushhiaa/PR_5/assets/113555695/f52ea6a3-500f-4073-aa03-41b7ae8ed98b)
